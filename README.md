@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abdulahifarid
-- 👀 I’m interested in Solving Problems by using Softwares
+- 👀 I’m interested in ---
 - 🌱 I’m currently learning Mern Stack(Mando db, Express, Reactjs, and nodejs)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach
